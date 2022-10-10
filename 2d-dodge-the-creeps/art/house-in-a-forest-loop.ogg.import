@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/house-in-a-forest-loop.ogg-ef185461d45c121cf87cb2cafa503176.oggstr"
+
+[deps]
+
+source_file="res://2d-dodge-the-creeps/art/house-in-a-forest-loop.ogg"
+dest_files=[ "res://.import/house-in-a-forest-loop.ogg-ef185461d45c121cf87cb2cafa503176.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0
